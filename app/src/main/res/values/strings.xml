@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prak1_LatihanPersegiPanjang</string>
+    <string name="persegiPanjang">PERSEGI PANJANG</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="hitung">Hitung</string>
+</resources>
